@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "IJ Start Canon Setup : IJ.Start.Canon Setup"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+authors = [{name = "canon", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
