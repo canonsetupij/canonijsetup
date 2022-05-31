@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Ij Start Canon'
-copyright = '2021, IJ Start Canon Setup'
+copyright = '2022, IJ Start Canon Setup'
 author = 'Canon'
 
 release = '0.1'
