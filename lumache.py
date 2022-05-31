@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+IJ.Start.Canon : IJ Start Canon Setup
 """
 
 __version__ = "0.1.0"
