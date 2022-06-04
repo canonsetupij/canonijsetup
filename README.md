@@ -2,11 +2,11 @@ What is Ij.start.canon setup, and what are its features? The Canon Ij is the pri
 
 The Canon printers are known as multi-functionality printers because they print, scan, copy, and fax in a single device. The printing speed of the canon printer is 15 prints per minute. The prints from the Canon printer appears to be real and natural. Colour and black and white printing are also possible in the Canon Ij printers.
 
-What if you want to Download and Install https://Ij.start.canon printer Driver/software for Pc and Android?
+***What if you want to Download and Install https://Ij.start.canon printer Driver/software for Pc and Android?***
 
 If you want to download and install the software or driver for your Pc and Android phone, then follow the process below;
 
-How to download and install Canon Ij printer software or driver for Pc?
+**How to download and install Canon Ij printer software or driver for Pc?**
 
 Follow the steps below to download and install Canon Ij printer driver for Pc;
 
@@ -27,7 +27,8 @@ After downloading the setup, double click on it.
 And then click on the Run option.
 Then click on the Yes option.
 After that, complete the installation of the Canon printer driver.
-How to download and install the Canon Ij printer setup application for Android phones?
+
+**How to download and install the Canon Ij printer setup application for Android phones?**
 
 Follow the process below to download and install the Canon Ij printer application for Android phones;
 
@@ -43,7 +44,7 @@ What if you want to connect or join Ij.start.canon printer to Pc and Android pho
 
 If you want to connect a canon printer to a PC or Android phone wirelessly, follow the steps below;
 
-How to connect canon printer to Pc wirelessly?
+**How to connect canon printer to Pc wirelessly?**
 
 Follow the process below;
 
@@ -56,7 +57,8 @@ Then go on Pc and open the driver.
 Click on Add device option.
 Then select the printer and add it to the driver.
 That's it.
-How to connect canon printer to Android phone wirelessly?
+
+**How to connect canon printer to Android phone wirelessly?**
 
 Follow the steps below;
 
